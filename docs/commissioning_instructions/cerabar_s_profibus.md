@@ -30,7 +30,3 @@ Insert Pin No
 Dip-Switches 3 & 4 "On" (Up) remaining Dip-Switches "OFF"(Down)
 
 Address = 4+8 = 12
-
-
-
-
