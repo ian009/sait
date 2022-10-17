@@ -1,22 +1,18 @@
-# Cerabar S HART
+# Cerabar S HART Device Configuration
+#### Measuring Mode
++ Measuring Mode - Pressure
 
-## Operating Menu
-### Operation
-+ Enter Reset Code
-7864 resets inc tag
-333 reset should be ok
+#### Operating Menu.. Settings.. Basic Setup
++ Pressure Eng Unit - psi
++ Set LRV - Refer to specific device configuration
++ Set URV - Refer to specific device configuration
 
-### Measuring Mode
-+ Pressure
+#### Operating Menu.. Transmitter Info.. Transmitter Data
++ Tag - PIT-xxx
 
-### Quick Setup
-+ Set LRV			Refer to specific device configuration
-+ Set URV		Refer to specific device configuration
+## Resetting the Device
+#### Operating Menu.. Operation
+Insert Pin No
 
-### Basic Setup if units require changing
-
-Operating Menu ..Transmitter Info..Transmitter Data
-Tag PIT-xxx
-Descriptor FLOWRUN1
-
-
++ 333 (User Reset)
++ 7864 (Total Reset)

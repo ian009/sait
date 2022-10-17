@@ -1,37 +1,36 @@
-# Cerabar S Profibus
-1 / 7864 reset
-tag & addiional info change
+# Cerabar S Profibus Device Configuration
 
-Manufacturer View .. Operating Menu .. Transmitter Info .. Transmitter Data
-Tag Descriptor	PIT-xxx
-Additional Info	FlowRun1
+#### Manufacturer View.. Operating Menu.. Settings.. Basic Setup
++ Measuring Mode -Pressure
++ Press. Eng. Unit - psi
 
-Manufacturer View .. Operating Menu .. Basic Setup
-Measuring Mode	Pressure
-Press. Eng. Unit	psi
+#### Manufacturer View.. Operating Menu.. Transmitter Info.. Transmitter Data
++ Tag Descriptor - PIT-xxx
 
-Operating Menu ..Transmitter Info..Transmitter Data
-Tag PIT-xxx
-Descriptor FLOWRUN1
+## Resetting the Device
+#### Manufacturer View .. Operating Menu.. Operation
+Insert Pin No
 
++ 33333 (User Reset)
++ 1 (Total Reset)
 
+## Hardware addressing
 
-2712 address reset if in SW mode.  
-**procedure in manual - couldn't get address to change - always greyed out **
-
-
-Hardware addressing
-
-Unscrew front cover & remove display
-Hardware addressing is configured as follows:
+1. Unscrew front cover & remove display
 1. Set DIP switch 8 (SW/HW) to "Off" (Down) = Hardware Addressing
-2. Configure the address with DIP switches 1 to 7.
-3. You have to wait 10 seconds for a change in address to take effect. The device is restarted.
+1. Configure the address with DIP switches 1 to 7.
+1. You have to wait 10 seconds for a change in address to take effect. The device is restarted.
 
-DIP-Switch		1		2		3		4		5		6		7
-Binary Weighting	1		2		4		8		16		32		64
+|DIP-Switch|1|2|3|4|5|6|7|
+|---|---|---|---|---|---|---|---|
+|Binary Weighting|1|2|4|8|16|32|64|
 
-Examples
-Dip-Switches 3 & 4 "On" (Up) remaining Dip-Switches "OFF"(Down) : Address = 4+8 = 12
+### Example
+
+Dip-Switches 3 & 4 "On" (Up) remaining Dip-Switches "OFF"(Down_
+
+Address = 4+8 = 12
+
+
 
 
