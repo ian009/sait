@@ -1,6 +1,6 @@
 # Run 4
 
-The following [HART](../indexes/index_devices_hart.md) , [Profibus](../indexes/index_devices_profibus.md) & [Ethernet IP](../indexes/index_devices_ip.md) devices are installed on Flow Run 4
+The following [HART](../indexes/index_devices_hart.md), [Profibus](../indexes/index_devices_profibus.md) & [Ethernet IP](../indexes/index_devices_ip.md) devices are installed on Flow Run 4
 
 |[Flow](../indexes/index_devices_flow.md)|[Pressure](../indexes/index_devices_pressure.md)|[Temperature](../indexes/index_devices_temperature.md)|
 |---|---|---|

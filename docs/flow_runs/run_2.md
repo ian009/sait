@@ -1,6 +1,6 @@
 # Run 2
 
-The following [HART](../indexes/index_devices_hart.md) , [Profibus](../indexes/index_devices_profibus.md) & [Foundation Fieldbus](../indexes/index_devices_ff.md) devices are installed on Flow Run 2
+The following [HART](../indexes/index_devices_hart.md), [Profibus](../indexes/index_devices_profibus.md) & [Foundation Fieldbus](../indexes/index_devices_ff.md) devices are installed on Flow Run 2
 
 |[Flow](../indexes/index_devices_flow.md)|[Pressure](../indexes/index_devices_pressure.md)|[Temperature](../indexes/index_devices_temperature.md)|
 |---|---|---|

@@ -1,6 +1,6 @@
 # Run 3
 
-The following [HART](../indexes/index_devices_hart.md) , [Profibus](../indexes/index_devices_profibus.md) & [non-SMART Devices](../indexes/index_devices_non_smart.md) devices are installed on Flow Run 3
+The following [HART](../indexes/index_devices_hart.md), [Profibus](../indexes/index_devices_profibus.md) & [non-SMART Devices](../indexes/index_devices_non_smart.md) devices are installed on Flow Run 3
 
 
 |[Flow](../indexes/index_devices_flow.md)|[Pressure](../indexes/index_devices_pressure.md)|[Temperature](../indexes/index_devices_temperature.md)|
