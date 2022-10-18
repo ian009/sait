@@ -1,4 +1,4 @@
-The SAIT Flow Lab in KA1123 consists of four flow runs
+The SAIT Flow Lab in KA1123 consists of [four flow runs](indexes/index_devices.md)
 
 + [Run 1](flow_runs/run_1.md)
 
