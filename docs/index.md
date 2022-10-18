@@ -12,8 +12,8 @@ The SAIT Flow Lab in KA1123 consists of four flow runs
 [Fieldcare](fieldcare/fieldcare.md) is installed on each flow run workstation & can be used to communicate with the [devices](indexes/index_devices.md) using one of the following protocols
 
 
-* [HART](protocols/hart/hart.md)
-* [Profibus](protocols/profibus.md)
+* [HART](indexes/index_devices_hart.md)
+* [Profibus](indexes/index_devices_profibus.md)
 * [Foundation Fieldbus](indexes/index_devices_ff.md)
 * [Ethernet I/P](indexes/index_devices_ip.md)
 
