@@ -1,4 +1,4 @@
-# Cerabar S HART
+# Cerabar S Foundation Fieldbus
 
 
 

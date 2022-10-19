@@ -1,18 +1,23 @@
 # Cerabar S Profibus Device Configuration
 
-#### Manufacturer View.. Operating Menu.. Settings.. Basic Setup
-+ Measuring Mode -Pressure
-+ Press. Eng. Unit - psi
+#### Manufacturer View
++ Operating Menu
+  + Settings
+    + Basic Setup
+      + Measuring Mode -Pressure
+      + Press. Eng. Unit - psi
 
-#### Manufacturer View.. Operating Menu.. Transmitter Info.. Transmitter Data
-+ Tag Descriptor - PIT-xxx
+  + Transmitter Info
+    + Transmitter Data
+      + Tag Descriptor - PIT-xxx
 
 ## Resetting the Device
-#### Manufacturer View .. Operating Menu.. Operation
-Insert Pin No
-
-+ 33333 (User Reset)
-+ 1 (Total Reset)
+#### Manufacturer View
++ Operating Menu
+  + Operation
+    + Insert Pin No
+      + 33333 (User Reset)
+      + 1 (Total Reset)
 
 ## Hardware addressing
 

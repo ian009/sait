@@ -5,7 +5,7 @@
 #### Operating Menu
 + Settings
   + Basic Setup
-    + Pressure Eng Unit - psi
+    + Press. Eng. Unit - psi
     + Set LRV - Refer to specific device configuration
     + Set URV - Refer to specific device configuration
 + Transmitter Info
