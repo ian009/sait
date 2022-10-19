@@ -8,7 +8,6 @@
     + Pressure Eng Unit - psi
     + Set LRV - Refer to specific device configuration
     + Set URV - Refer to specific device configuration
-Operating Menu
 + Transmitter Info
   + Transmitter Data
     + Tag - PIT-xxx
