@@ -1,26 +1,26 @@
 # Deltabar S Profibus Device Configuration
 
-#### Manufacturer View
-+ Operating Menu
-  + Settings
-    + Basic Setup
-      + Measuring Mode - Flow
-      + Press. Eng. Unit - inH2O
-      + Flow-Meas. Type - Volume operat. cond
-      + Unit Flow - USgal/min
-      + Max. Flow - Refer to specific device configuration
-      + Max. Press. Flow - Refer to specific device configuration
-  + Transmitter Info
-    + Transmitter Data
-      + Tag Descriptor - PIT-xxx
++ Manufacturer View
+ + Operating Menu
+     + Settings
+         + Basic Setup
+             + Measuring Mode - Flow
+             + Press. Eng. Unit - inH2O
+             + Flow-Meas. Type - Volume operat. cond
+             + Unit Flow - USgal/min
+             + Max. Flow - Refer to specific device configuration
+             + Max. Press. Flow - Refer to specific device configuration
+     + Transmitter Info
+         + Transmitter Data
+             + Tag Descriptor - PIT-xxx
 
 ## Resetting the Device
-#### Manufacturer View
-+ Operating Menu
-  + Operation
-    + Insert Pin No
-      + 33333 (User Reset)
-      + 1 (Total Reset)
++ Manufacturer View
+ + Operating Menu
+     + Operation
+         + Insert Pin No
+         + 33333 (User Reset)
+         + 1 (Total Reset)
 
 ## Hardware addressing
 
