@@ -59,8 +59,8 @@ The Connection icon will turn from grey to green when connected
 
 Disconnected	Connected
 
-![](../../../images/generic_images/connection_disconnected_grey_generic.bmp)
-![](../../../images/generic_images/connection_connected_double_green_generic.bmp)
+![](../../../images/generic_images/connection_disconnected_grey_generic.png)
+![](../../../images/generic_images/connection_connected_double_green_generic.png)
 
 
 Double click on the green connection icon

@@ -53,7 +53,7 @@ To connect to the required device, In the //Network pane// right click on the re
 The Connection icon will turn from grey to green when connected
 
 Disconnected	Connected
-{{../../files/generic_images/connection_disconnected_grey_generic.bmp?width=50}}		{{../../files/generic_images/connection_connected_double_green_generic.bmp?width=50}}
+{{../../files/generic_images/connection_disconnected_grey_generic.png?width=50}}		{{../../files/generic_images/connection_connected_double_green_generic.png?width=50}}
 
 
 Double click on the green connection icon
