@@ -17,4 +17,7 @@ The SAIT Flow Lab in KA1123 consists of [four flow runs](indexes/index_devices.m
 + [Foundation Fieldbus](indexes/index_devices_ff.md)
 + [Ethernet I/P](indexes/index_devices_ip.md)
 
-There are a few [non-SMART devices](indexes/index_devices_non_smart.md) that are not capable of digital communication.
+There are a few [non-SMART devices](indexes/index_devices_non_smart.md) that are not capable of digital communication.\
+\
+\
+[gitgub source files](https://github.com/ian009/sait)
